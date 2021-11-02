@@ -5,7 +5,7 @@
     text-align:center;
 }
 .header nav{
-    background-color: rgba(210, 8, 250, 0.959);
+    background-color: rgba(240, 13, 209, 0.959);
     line-height: 40px;
     font: size 25px;
 }
@@ -17,5 +17,5 @@ nav a{
 
 }
 nav a:hover{
-    background-color: rgb(201, 73, 14);
+    background-color: rgb(243, 220, 13);
 }
